@@ -13,7 +13,7 @@ h1{
  font-size:5.625rem;
 }
 header h1{
-  margin-top:200px;
+  margin-top:12.5rem;
     opacity: 0.25;
 }
 .sigh{
@@ -21,16 +21,16 @@ header h1{
   opacity: 0.1;
 }
 .doctor{
-  width:100px;
+  width:6.25rem;
   position: absolute;
-  top:100px;
-  right:700px;
+  top:6.25rem;
+  right:43.75rem;
   opacity: .5;
 
 
 }
 .smiley{
-  width:60px;
+  width:3.75rem;
   position: absolute;
   bottom:5%;
   left:100%;
@@ -40,28 +40,28 @@ header h1{
   margin:auto;
 }
 .sad{
-  width:50px;
+  width:3.125rem;
   position: absolute;
   right:100%;
 }
 .smile-face{
-  height:50px;
-  width:200px;
+  height:3.125rem;
+  width:12.5rem;
 position: relative;
-left:1100px;
-bottom:400px
+left:69.375rem;
+bottom:25rem;
 
 }
 .spread{
-  width:200px;
+  width:12.5rem;
    filter: invert(80%);
 }
 .spread-love{
   position: relative;
 
-  width:200px;
-  height:100px;
-  left:200px;
-  bottom:800px;
+  width:12.5rem;
+  height:6.25rem;
+  left:12.5rem;
+  bottom:50rem;
   color:silver;
 }
