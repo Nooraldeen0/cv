@@ -1,0 +1,67 @@
+body{
+  background-color:#FFECEF;
+  font-family: 'Kalam', cursive;
+  text-align:center;
+}
+.upper-star{
+  position: absolute;
+  top:7.5rem;
+  right:27.875rem;
+}
+h1{
+ font-family: 'Calligraffitti', cursive;
+ font-size:5.625rem;
+}
+header h1{
+  margin-top:200px;
+    opacity: 0.25;
+}
+.sigh{
+  font-size:2.5rem;
+  opacity: 0.1;
+}
+.doctor{
+  width:100px;
+  position: absolute;
+  top:100px;
+  right:700px;
+  opacity: .5;
+
+
+}
+.smiley{
+  width:60px;
+  position: absolute;
+  bottom:5%;
+  left:100%;
+
+}
+.heart{
+  margin:auto;
+}
+.sad{
+  width:50px;
+  position: absolute;
+  right:100%;
+}
+.smile-face{
+  height:50px;
+  width:200px;
+position: relative;
+left:1100px;
+bottom:400px
+
+}
+.spread{
+  width:200px;
+   filter: invert(80%);
+}
+.spread-love{
+  position: relative;
+
+  width:200px;
+  height:100px;
+  left:200px;
+  bottom:800px;
+  color:silver;
+}
