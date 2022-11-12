@@ -75,7 +75,7 @@ bottom:25rem;
    margin:auto 50px;
  }
  .container-fluid{
- padding:3% 0;
+ padding:5% 10%;
 }
 /* Navigation Bar */
 .navbar{
@@ -134,10 +134,13 @@ a.brand-marggg{
 }
 .nav-item{
  padding:0 18px;
+
 }
 .nav-link{
  font-size:1.2rem;
  font-weight: 300;
+ position: relative;
+ right:20px;
 }
 
 .heart{
@@ -146,6 +149,7 @@ a.brand-marggg{
   height: auto;
     opacity: 0.7;
 }
+
 h1{
   font-family: 'Calligraffitti', cursive;
   font-size: 10vw; /* Browsers that do not support "MIN () - MAX ()" and "Clamp ()" functions will take this value.*/
@@ -157,6 +161,7 @@ h1{
 .name-of-brand{
   margin-right:30px;
 }
+
 .upper-star{
   opacity: 0.8;
   position:relative;
@@ -199,6 +204,7 @@ margin-bottom:14px;
     max-width: 100px;
     min-width:60px;
     background-color:#FF8DC7;
+
   }
 .circle:hover{
   background-color: #D800A6;
