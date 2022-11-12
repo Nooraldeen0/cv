@@ -71,11 +71,10 @@ bottom:25rem;
   bottom:50rem;
   color:silver;
 } */
- .nav-itemss{
-   margin:auto 50px;
- }
- .container-fluid{
- padding:5% 10%;
+
+.container-fluid{
+padding:5% 10%;
+
 }
 /* Navigation Bar */
 .navbar{
@@ -83,8 +82,8 @@ bottom:25rem;
 
 }
 a.nav-itemss{
-  font-size:1.8rem;
-  margin-right:10%;
+  font-size:1.6rem;
+
 }
 a.nav-itemss:hover{
   background-color:#FF5858;
@@ -122,22 +121,19 @@ a.nav-itemss:active{
 }
 .navbar-brand{
  font-family: 'Calligraffitti', cursive;
- font-size:2.5rem;
+ /* font-size:2.5rem; */
+ font-size: 3vw;
+   font-size: max(25px, min(3vw, 80px));
+   font-size: clamp(25px, 3vw, 80px);
  font-weight: bold;
 
 }
 .navbar-nav{
   margin-right:30px;
 }
-a.brand-marggg{
-  margin-left:10%;
-}
-.nav-item{
- padding:0 18px;
 
-}
+
 .nav-link{
- font-size:1.2rem;
  font-weight: 300;
  position: relative;
  right:20px;
@@ -152,9 +148,9 @@ a.brand-marggg{
 
 h1{
   font-family: 'Calligraffitti', cursive;
-  font-size: 10vw; /* Browsers that do not support "MIN () - MAX ()" and "Clamp ()" functions will take this value.*/
-    font-size: max(100px, min(10vw, 150px)); /* Browsers that do not support the "clamp ()" function will take this value. */
-    font-size: clamp(65px, 10vw, 175px);
+  font-size: 9vw; /* Browsers that do not support "MIN () - MAX ()" and "Clamp ()" functions will take this value.*/
+    font-size: max(75px, min(9vw, 125px)); /* Browsers that do not support the "clamp ()" function will take this value. */
+    font-size: clamp(50px, 9vw, 150px);
 
 
 }
