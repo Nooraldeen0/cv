@@ -126,6 +126,9 @@ a.nav-itemss:active{
  font-weight: bold;
 
 }
+.navbar-nav{
+  margin-right:30px;
+}
 a.brand-marggg{
   margin-left:10%;
 }
@@ -150,6 +153,9 @@ h1{
     font-size: clamp(65px, 10vw, 175px);
 
 
+}
+.name-of-brand{
+  margin-right:20px;
 }
 .upper-star{
   opacity: 0.8;
